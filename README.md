@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Kintrado
-- 🌱 I’m currently learning Vaadin
-- 👯 I’m looking to collaborate on Java/SpringBoot open source projects
+- 👨🏾‍💼 I’m the Chairman and Founder of [Nuevicsu](https://www.nuevicsutech.com.ng/)
+- 🛠️ I’m the Technical Cofounder of [Kintrado](https://www.kintrado.com/)
 - 💬 Ask me about Java and TypeScript
 - 📫 How to reach me: eoladosu04@gmail.com
 
