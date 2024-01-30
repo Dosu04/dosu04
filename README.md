@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 👨🏾‍💼 I’m the Chairman and Founder of [Nuevicsu](https://www.nuevicsutech.com.ng/)
-- 🛠️ I’m the Technical Cofounder of [Kintrado](https://www.kintrado.com/)
+- 🛠️ I’m the Technical Founder of [Kintrado](https://www.kintrado.com/)
+- 🔬 I'm the Director and Founder of Nuevicsu R&D
 - 💬 Ask me about Java and TypeScript
 - 📫 How to reach me: eoladosu04@gmail.com
 
