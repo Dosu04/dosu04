@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏾
 
-- 👨🏾‍💼 I’m the Chairman at [Nuevicsu](https://www.nuevicsutech.com.ng/)
-- 🛠️ I’m the CEO at [Kintrado](https://www.kintrado.com/) (A Subsidiary of Nuevicsu)
-- 🔬 I'm the Director at Nuevicsu R&D (A Subsidiary of Nuevicsu)
+- 👨🏾‍💻 I’m a Software Engineer with a focus on the backend
 - 💬 Ask me about Java and TypeScript
 - 📫 How to reach me: eoladosu04@gmail.com
 
