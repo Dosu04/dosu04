@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 
-- 👨🏾‍💻 I’m a Software Engineer with a focus on the backend
+- 👨🏾‍💻 I’m a Full Stack Software Engineer with a focus on the backend
 - 💬 Ask me about Java and TypeScript
 - 📫 How to reach me: eoladosu04@gmail.com
 
