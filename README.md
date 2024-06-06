@@ -1,8 +1,8 @@
 ### Hi there 👋🏾
-
+- 👨🏾‍💼 CEO, Veskee
 - 👨🏾‍💻 I’m a Full Stack Software Engineer with a focus on the backend
-- 💬 Ask me about Java and TypeScript
-- 📫 How to reach me: eoladosu04@gmail.com
+- 💬 Ask me about Java ☕️
+- 📫 How to reach me: dosu@veskee.com
 
 ### Top Skills
 
