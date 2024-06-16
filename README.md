@@ -1,6 +1,6 @@
 ### Hi there 👋🏾
 - 👨🏾‍💼 CEO, Veskee
-- 👨🏾‍💻 I’m a Full Stack Software Engineer with a focus on the backend
+- 👨🏾‍💻 I’m a Software Engineer
 - 💬 Ask me about Java ☕️
 - 📫 How to reach me: dosu@veskee.com
 
@@ -14,3 +14,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosu04&show_icons=true&locale=en&layout=compact" alt="dosu04" /></p>
