@@ -13,5 +13,3 @@
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?logo=svelte&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dosu04&show_icons=true&locale=en&layout=compact" alt="dosu04" /></p>
