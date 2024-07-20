@@ -1,8 +1,7 @@
 ### Hi there 👋🏾
-- 👨🏾‍💼 CEO, Veskee
 - 👨🏾‍💻 I’m a Software Engineer
 - 💬 Ask me about Java ☕️
-- 📫 How to reach me: dosu@veskee.com
+- 📫 How to reach me: eoladosu04@gmail.com
 
 ### Top Skills
 
